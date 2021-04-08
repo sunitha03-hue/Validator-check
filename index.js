@@ -26,4 +26,3 @@ console.log(getValidInput('Enter Name:', isValidName));
 // TODO 2: write a validator 
 // that ensures input is a vowel
 
-// Be sure to test your code! 
